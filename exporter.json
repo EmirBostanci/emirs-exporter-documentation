@@ -439,6 +439,22 @@
             "label": "Date of update"
           }
         ]
+      },
+      {
+        "key": "io.supernova.documentation-main.custom-token-property-tryout",
+        "category": "Tokens",
+        "title": "Token property custom block",
+        "description": "test description",
+        "icon": "icons/custom-block-checklist-all.png",
+        "mode": "block",
+        "properties": [
+          {
+            "key": "tokenPropertiesSelection",
+            "default": "",
+            "type": "tokenProperties",
+            "label": "Token PropertiesX"
+          }
+        ]
       }
     ],
     "blockVariants": {
