@@ -705,7 +705,6 @@
         "properties": [
           {
             "key": "tokenPropertiesSelection",
-            "default": "",
             "type": "tokenProperties",
             "label": "Token PropertiesX"
           }
