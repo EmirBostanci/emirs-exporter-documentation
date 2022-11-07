@@ -697,8 +697,8 @@
       },
       {
         "key": "io.supernova.documentation-main.custom-token-property-tryout",
-        "category": "Components",
-        "title": "Token property custom block",
+        "category": "Tokens",
+        "title": "Token property and token type custom block",
         "description": "test description",
         "icon": "icons/custom-block-checklist-all.png",
         "mode": "block",
@@ -706,7 +706,12 @@
           {
             "key": "tokenPropertiesSelection",
             "type": "tokenProperties",
-            "label": "Token PropertiesX"
+            "label": "Token Properties two line name test"
+          },
+          {
+            "key": "tokenTypeKey",
+            "type": "tokenType",
+            "label": "Token type two line name test"
           }
         ]
       }
